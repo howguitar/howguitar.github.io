@@ -5,7 +5,7 @@ Este es mi portafolio profesional creado con HTML, CSS y Javascript.
 ## Autor -
 **Howard Avella**
 
-* [LinkedIn] (https://www.linkedin.com/howguitar/)
+* [LinkedIn] (https://www.linkedin.com/in/havella/)
 * [Codepen] (https://codepen.io/howguitar)
 
 ## Ver el ejemplo en vivo
